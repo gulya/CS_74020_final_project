@@ -9,7 +9,9 @@ Authors:
 - Gulya Radjapova
 - Nancy Sea
 
-Instructions: 1. Clone the repository
+Instructions: 
+
+1. Clone the repository
 2. Copy the contents of the _final_project_ to Google Drive (to utilize the Google Collab environment) to the root folder of the Google Drive. All of the project documents should exist in _final_project_ folder in the root of your drive.
 3. Open MatterportTrainMammals_final.ipynb in Google Collab
 4. Follow instructions in the notebook and run each portion.
